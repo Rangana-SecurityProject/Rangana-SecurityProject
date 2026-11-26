@@ -2,9 +2,7 @@
 <a href = "https://www.linkedin.com/in/rangana-prabath/"> <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 
-[Brief Introduction - Remove this afterwards]
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Dedicated IT professional with over seven years of hands-on experience solving technology challenges and supporting end users. Scuring endpoints with MS Intune and Office 365 administration. Strong background in field services, hardware support, and IT operations, with a growing focus on cybersecurity, digital forensics, and continuous professional development.
 
 Objective
 [Provide Objective - Remove this afterwards]]
