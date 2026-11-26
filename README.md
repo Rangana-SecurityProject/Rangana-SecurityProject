@@ -1,4 +1,5 @@
 <h2> Hello, I'm CHANGEME </h2>
+<a href = "https://www.linkedin.com/in/rangana-prabath/"> <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
 
 [Brief Introduction - Remove this afterwards]
