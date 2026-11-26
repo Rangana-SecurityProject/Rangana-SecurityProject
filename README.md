@@ -20,7 +20,7 @@
     </tr>
     <tr>
         <td>Threat hunting with advanced KQL, and Sentinel automation with Playbooks and AI-driven SOAR</td>
-        <td>Link</td>
+        <td> <a href="https://github.com/Rangana-SecurityProject/-Threat-hunting-with-advanced-KQL-and-Sentinel-automation-with-Playbooks-and-AI-driven-SOAR/tree/main"</a> Go to the project</td>
     </tr>
     <tr>
         <td>Sentinel Workbooks for SOC operations, management and ISO 27001, SOC 2 compliance</td>
@@ -35,7 +35,6 @@
         <td>linkt</td>
     </tr>
 </table>
-
 
 
 <h3>Tools</h3>
