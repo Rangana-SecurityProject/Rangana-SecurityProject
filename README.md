@@ -24,7 +24,7 @@
     </tr>
     <tr>
         <td>Sentinel Workbooks for SOC operations, management and ISO 27001, SOC 2 compliance</td>
-        <td>linkt</td>
+        <td><a href="https://github.com/Rangana-SecurityProject/-Sentinel-Workbooks-for-SOC-operations-management-and-ISO-27001-SOC-2-compliance"> Go to the project</a></td>
     </tr>
    <tr>
         <td>Monitor and triage real-time brute force attacks with Splunk and Wuzah environments</td>
