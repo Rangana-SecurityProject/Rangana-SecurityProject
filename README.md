@@ -28,7 +28,7 @@
     </tr>
    <tr>
         <td>Monitor and triage real-time brute force attacks with Splunk and Wuzah environments</td>
-        <td>linkt</td>
+        <td><a href="https://github.com/Rangana-SecurityProject/-Monitor-and-triage-real-time-brute-force-attacks-with-Splunk-and-Wuzah-environments">Go to the project</a></td>
     </tr>
    <tr>
         <td>Deep investigating phishing email and contents</td>
